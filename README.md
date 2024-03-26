@@ -1,6 +1,6 @@
 # HS2B
 A Hypixel Skyblock Farming Script(specifically MelonKingDe's Melon/Pumpkin farm) written in python.
-[Here is MelonKingDe's Video](https://youtu.be/5k9c7qK0l58?si=MdLnzF8kmdAONxkB)
+[Here is his Video](https://youtu.be/5k9c7qK0l58?si=MdLnzF8kmdAONxkB)
 ## Setup
 * Download **"script.py"**
 * Position yourself at start of your farm(yaw: 0, pitch:58/5-59)
